@@ -41,9 +41,11 @@ This project analyzes the given agricultural dataset to investigate seasonal dif
 ## 📁 Repository Structure
 
 ```
-├── Seasonal_Agriculture_Performance_Analysis.ipynb   # Main analysis notebook
-├── seasonal_agriculture_performance_dataset.csv       # Dataset
-└── README.md                                          # Project overview
+├── Seasonal_Agriculture_Performance_Analysis.ipynb            # Main analysis notebook
+├── seasonal_agriculture_performance_dataset.csv                # Dataset
+├── Major Project_Seasonal Agriculture Performance Analysis..pdf # Project brief / problem statement
+├── VOIS_Major_Project_PPT_Mallepula_Prashanthi (1).pptx        # Project presentation (PPT)
+└── README.md                                                    # Project overview
 ```
 
 ## 🚀 How to Run
